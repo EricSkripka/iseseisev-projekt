@@ -1,0 +1,15 @@
+{    
+  "name": "Minesweeper",
+  "short_name": "Sweepah",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#428cf4",
+  "description": "The best minesweeper game.",
+  "icons": [
+    {
+      "src": "pomm.png",
+      "sizes": "738x720",
+      "type": "image/png"
+    }
+  ]
+}
