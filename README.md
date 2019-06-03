@@ -1,5 +1,5 @@
 # Minesweeper
-*Eric Skripka
+*Eric Skripka*
 
  * Saab valida kolme mängulaua suuruse vahel
  * Saab ise sisestada miinide arvu
